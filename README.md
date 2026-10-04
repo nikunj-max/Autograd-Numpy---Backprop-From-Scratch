@@ -208,9 +208,3 @@ Edit the first code cell (or set `EPOCHS` as an environment variable):
 - He et al. (2015). *Delving Deep into Rectifiers.* [arXiv:1502.01852](https://arxiv.org/abs/1502.01852)
 - Stanford CS231n: backpropagation notes.
 - LeCun et al. MNIST database of handwritten digits.
-
-## Author
-
-**Nikunj Bhardwaj**:· [LinkedIn]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/nikunj-bhardwaj-003829326/)) · [Twitter/X]([https://twitter.com/your-handle](https://x.com/knee_kunzz))
-
-Built as part of a from-scratch deep-learning portfolio. Feedback and corrections are welcome. Open an issue or a PR.
