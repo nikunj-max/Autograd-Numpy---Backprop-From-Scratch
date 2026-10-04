@@ -1,4 +1,4 @@
-# autograd-numpy — Backprop From Scratch
+# Autograd-numpy — Backprop From Scratch
 
 A 2-layer MLP (784 → 128 → 10) trained on MNIST where **every gradient is derived and coded by hand in NumPy**. No PyTorch, no autograd. Includes a from-scratch **Adam** vs **SGD** comparison and a numerical gradient-check test suite.
 
