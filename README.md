@@ -38,8 +38,3 @@ _Fill in after running on MNIST (10 epochs, batch 64, seed 0):_
 |---|---|---|---|
 | SGD  | 0.1  | _TBD_ | _TBD_ |
 | Adam | 1e-3 | _TBD_ | _TBD_ |
-
-![curves](results/curves.png)
-
-## What I learned / failure modes
-_Write 3–5 honest bullets: LR sensitivity of SGD, why Adam's bias correction matters early, a bug you hit and how gradcheck caught it._
